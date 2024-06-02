@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat Jain</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Description of the animated image" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
